@@ -1,5 +1,5 @@
 // name      : chop.js
-// git       : https://github.com/pffy
+// git       : https://github.com/dofufa/sealchop-generator
 // requires  : jQuery
 
 // base url of the seal chop image api
