@@ -3,7 +3,7 @@
 // requires  : jQuery
 
 // base url of the seal chop image api
-const b = 'https://new.sealchop.com/?';
+const b = 'https://chop.png.dofufa.com/?';
 
 $( document ).ready(function(){
 
